@@ -1,0 +1,42 @@
+Number of customers 12
+Cashier Number0 is serving customer 11 at time 2
+Wait Time for Customer11 is 0
+Cashier Number1 is serving customer 22 at time 2
+Wait Time for Customer22 is 0
+Cashier Number2 is serving customer 33 at time 2
+Wait Time for Customer33 is 0
+At time7 Cashier0 has finished serving Customer11
+Cashier Number0 is serving customer 44 at time 8
+Wait Time for Customer44 is 6
+At time9 Cashier1 has finished serving Customer22
+At time10 Cashier0 has finished serving Customer44
+Cashier Number1 is serving customer 55 at time 10
+Wait Time for Customer55 is 3
+Cashier Number0 is serving customer 66 at time 11
+Wait Time for Customer66 is 2
+At time12 Cashier2 has finished serving Customer33
+At time13 Cashier1 has finished serving Customer55
+Cashier Number2 is serving customer 67 at time 13
+Wait Time for Customer67 is 4
+Cashier Number1 is serving customer 68 at time 14
+Wait Time for Customer68 is 5
+At time23 Cashier0 has finished serving Customer66
+Cashier Number0 is serving customer 69 at time 24
+Wait Time for Customer69 is 15
+At time33 Cashier2 has finished serving Customer67
+At time34 Cashier0 has finished serving Customer69
+Cashier Number2 is serving customer 70 at time 34
+Wait Time for Customer70 is 23
+Cashier Number0 is serving customer 71 at time 35
+Wait Time for Customer71 is 23
+At time37 Cashier0 has finished serving Customer71
+At time37 Cashier1 has finished serving Customer68
+Cashier Number0 is serving customer 71 at time 38
+Wait Time for Customer71 is 26
+At time40 Cashier0 has finished serving Customer71
+At time46 Cashier2 has finished serving Customer70
+Sum is 107
+Average wait time is 8
+Max wait time is 26
+Min wait time is 0
+Everything seems proper , There is no need for extra Cashier Counter
