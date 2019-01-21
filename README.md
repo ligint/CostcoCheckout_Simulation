@@ -4,7 +4,7 @@ Requirement-
 Given a customer file, derive simulation results for your store manager to intelligently schedule checkout counters.
 
 Initial Assumptions-
-The queue is assumed to be empty initially. Maximum customers served till simulation time expires. Inputs are given in specified format.
+The queue is assumed to be empty initially. Maximum customers will be served till simulation time expires.Solution is designed in such a way that if wait time of customers is greater than the defined threshold then extra counters needs to be opened for smooth checkout.Number of counters required for smooth checkout needs to be calculated. 
 
 Working of code-
 The parameters- Customer No.,Arrival Time and Service time is parsed from the Simulation.txt file stored in an array with particular index reference.Operator overloading is carried out to store the inputs as a data structure. The entries are passed to the queue with methods customerQueue.push
